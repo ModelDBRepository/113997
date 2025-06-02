@@ -42,8 +42,7 @@ Drag and drop the mosinit.hoc file on the nrngui icon to start the simulations.
 
 The model files were supplied by Alain Destexhe.
 
+## Changelog
 20110406 updated to use methods cnexp and derivimplicit over euler
 
----
-
-2025-06-02: Standardized to Markdown.
+20250602 Converted README to Markdown.
